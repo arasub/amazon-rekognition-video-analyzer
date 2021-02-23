@@ -1,5 +1,5 @@
 Create a Serverless Pipeline for Video Frame Analysis and Alerting
-========
+========================================================================================
 
 ## Introduction
 Imagine being able to capture live video streams, identify objects using deep learning, and then trigger actions or notifications based on the identified objects -- all with low latency and without a single server to manage.
